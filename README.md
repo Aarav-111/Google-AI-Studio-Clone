@@ -1,7 +1,7 @@
 # Google-AI-Studio-Clone
 **A Realtime share screen AI Similar to Google AI Studio**
 
-This is a Simlpe but a powerful Realtime share screen Artificial Intellegence powered assistant. It similar to google AI Studio but with additional feature (Listed down below) 
+This is a Simple but a powerful Realtime share screen Artificial Intellegence powered assistant. It similar to google AI Studio but with additional feature (Listed down below) 
 
 Extra features:
 - Can Annotate on the screen itself
