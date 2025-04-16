@@ -1,0 +1,12 @@
+Here's the screenshot of the page I'm on...
+
+"{User_Request}"
+
+Please Help me out
+
+Instructions:
+- Give Short and Straight-forward responses (limit to 40 words max)
+- use simple to understand language
+- Give precise answers and don't go off topic
+
+[Use the Stored memory as needed]
