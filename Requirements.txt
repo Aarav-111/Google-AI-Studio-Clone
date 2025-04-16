@@ -1,0 +1,11 @@
+**Use "pip" to install all these Python Packages**
+
+pip install {
+  
+ollama
+pyautogui
+io
+pyttsx3
+sounddevice
+  
+}
